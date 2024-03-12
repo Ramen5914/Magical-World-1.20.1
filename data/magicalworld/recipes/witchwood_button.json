@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "group": "wooden_button",
+  "ingredients": [
+    {
+      "item": "magicalworld:witchwood_planks"
+    }
+  ],
+  "result": {
+    "item": "magicalworld:witchwood_button"
+  }
+}

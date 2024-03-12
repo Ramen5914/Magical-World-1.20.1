@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "X": {
+      "item": "magicalworld:vinteum_dust"
+    },
+    "#": {
+      "item": "magicalworld:magical_stone"
+    }
+  },
+  "pattern": [
+    "XXX",
+    "X#X",
+    "XXX"
+  ],
+  "result": {
+    "item": "magicalworld:ethereal_stone"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,18 @@
+{
+  "type": "magicalworld:magic_crucible",
+  "craftTime": 160,
+  "fluidAmount": 1000,
+  "fluidType": "minecraft:water",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "magicalworld:vinteum_dust"
+    }
+  ],
+  "output": {
+    "count": 1,
+    "item": "magicalworld:vinteum_ingot"
+  }
+}

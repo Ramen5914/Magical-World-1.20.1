@@ -1,0 +1,19 @@
+{
+  "type": "magicalworld:magic_crucible",
+  "craftTime": 160,
+  "fluidAmount": 1000,
+  "fluidType": "minecraft:water",
+  "ingredients": [
+    {
+      "item": "minecraft:calcite"
+
+    },
+    {
+      "item": "magicalworld:vinteum_dust"
+    }
+  ],
+  "output": {
+    "count": 1,
+    "item": "magicalworld:white_rune_chalk"
+  }
+}
